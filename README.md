@@ -10,12 +10,6 @@ You can play around with our ML model/webapp here:
 
 #### https://ml-model-house-pricing-predict.herokuapp.com/
 
-## List Members
-
-- Josue Emmanuel Aviles Ledezma
-- Humberto Rodriguez
-- Gerardo Jimenez
-
 ## Resources
  
 - Dataset obtained from Kaggle https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
