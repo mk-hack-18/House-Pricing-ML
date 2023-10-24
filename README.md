@@ -16,7 +16,7 @@ You can play around with our ML model/webapp here:
 - Datasets: test.csv, train.csv, Data_Description.txt
 - Software: Python 3.7.0, HTML, CSS, SQL, MongoDB, JupyterNotebook
 
-#### Presentation: https://docs.google.com/presentation/d/1RP4-LQ4zja44UlSFVeQPNpQE2bsh4QSUvL4yCp1ztZA/edit?usp=sharing
+#### Presentation: https://docs.google.com/presentation/d/1WuVoJxiyS2gz10e8tHhnbqE4Rio60oTGc9iEtwe-3ys/edit?usp=sharing
 
 ### Questions to answer:
 
