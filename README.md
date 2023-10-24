@@ -8,8 +8,6 @@ We will apply different machine learning models with the hope of having the best
 
 You can play around with our ML model/webapp here:
 
-#### https://ml-model-house-pricing-predict.herokuapp.com/
-
 ## Resources
  
 - Dataset obtained from Kaggle https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
